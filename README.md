@@ -3,7 +3,7 @@ A lightweight, accessible accordion component — ideal for FAQ sections, docume
 
 🔗 CodeSandbox – https://codesandbox.io/p/github/shubham397/accordion-component/main?import=true
 
-💡 Features
+## 💡 Features
 🔽 Expand/collapse with smooth animation
 
 🧭 Supports single or multiple open modes
