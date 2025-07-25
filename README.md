@@ -4,15 +4,15 @@ A lightweight, accessible accordion component — ideal for FAQ sections, docume
 🔗 CodeSandbox – https://codesandbox.io/p/github/shubham397/accordion-component/main?import=true
 
 ## 💡 Features
-🔽 Expand/collapse with smooth animation
+ - 🔽 Expand/collapse with smooth animation
 
-🧭 Supports single or multiple open modes
+ - 🧭 Supports single or multiple open modes
 
-🖱️ Click + keyboard accessible (WAI-ARIA compliant)
+ - 🖱️ Click + keyboard accessible (WAI-ARIA compliant)
 
-🧩 Reusable with dynamic content
+ - 🧩 Reusable with dynamic content
 
-⚛️ Built with React + TypeScript + CSS
+ - ⚛️ Built with React + TypeScript + CSS
 
 ## 📁 Folder Structure
 
