@@ -1,4 +1,4 @@
-🗂️ Accordion / FAQ Component (React + TypeScript)
+# 🗂️ Accordion / FAQ Component (React + TypeScript)
 A lightweight, accessible accordion component — ideal for FAQ sections, documentation, and collapsible UI areas.
 
 🔗 CodeSandbox – https://codesandbox.io/p/github/shubham397/accordion-component/main?import=true
